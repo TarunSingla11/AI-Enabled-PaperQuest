@@ -1,5 +1,6 @@
-Research Paper Finder
-Welcome to Research Paper Finder, a powerful Streamlit web application designed to streamline academic research by searching for papers across eight reputable sources: arXiv, Semantic Scholar, PubMed, CrossRef, CORE, DOAJ, Google Scholar, and ERIC. This tool leverages natural language processing (NLP) and semantic search to deliver relevant, high-quality results tailored to your research needs.
+AI Powered Research Paper Finder -- (Your ultimate Research Paper Finder)
+
+Welcome to AI Powered Research Paper Finder, a powerful Streamlit web application designed to streamline academic research by searching for papers across eight reputable sources: arXiv, Semantic Scholar, PubMed, CrossRef, CORE, DOAJ, Google Scholar, and ERIC. This tool leverages natural language processing (NLP) and semantic search to deliver relevant, high-quality results tailored to your research needs.
 📖 About
 Research Paper Finder simplifies the process of discovering academic papers by combining keyword extraction, semantic ranking, and year-based filtering. Whether you're a student, researcher, or professional, this app helps you find papers efficiently with features like:
 
