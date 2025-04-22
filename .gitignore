@@ -23,7 +23,3 @@ secrets.toml
 # System files
 .DS_Store
 Thumbs.db
-
-# Optional: Model files (if you decide not to track them)
-models/
-setup.sh
