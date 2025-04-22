@@ -22,7 +22,7 @@ st.set_page_config(page_title="Research Paper Finder", page_icon="📚", layout=
 nlp = spacy.load("en_core_web_sm")
 
 # Load sentence transformer for semantic search
-semantic_model = SentenceTransformer('./models/all-MiniLM-L6-v2')
+semantic_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 
 # API Keys (replace with your own or use environment variables)
