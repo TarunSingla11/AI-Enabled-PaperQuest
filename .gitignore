@@ -1,0 +1,29 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments (in case you accidentally create one)
+venv/
+env/
+.venv/
+
+# Streamlit-specific
+.streamlit/
+*.log
+
+# Environment variables and secrets (in case you accidentally create these)
+.env
+secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: Model files (if you decide not to track them)
+models/
+setup.sh
